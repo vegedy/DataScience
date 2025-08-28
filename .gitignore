@@ -20,3 +20,6 @@ __pycache__/
 # System-Dateien
 .DS_Store
 Thumbs.db
+
+# Save test data
+!python/data/*
