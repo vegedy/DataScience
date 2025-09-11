@@ -23,3 +23,15 @@ Thumbs.db
 
 # Save test data
 !python/data/*
+
+# Conda virtual environments
+env/
+.conda/
+*.conda
+*.env
+*.venv
+python/data/my_env/
+python/data/env/
+python/data/.conda/
+python/data/.env/
+python/data/.venv/
